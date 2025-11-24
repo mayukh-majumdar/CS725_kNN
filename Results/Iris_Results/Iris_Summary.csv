@@ -1,0 +1,8 @@
+,Best CV Accuracy,Best k (CV)
+euclidean,0.9666666666666668,6
+manhattan,0.96,7
+chebyshev,0.9533333333333334,3
+minkowski_p3,0.9733333333333334,8
+minkowski_p4,0.9666666666666666,7
+cosine,0.8733333333333333,3
+mahalanobis,0.9066666666666666,3
